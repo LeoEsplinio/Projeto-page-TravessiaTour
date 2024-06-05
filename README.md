@@ -14,6 +14,9 @@ Integrantes do grupo responsável:
 
 Criamos, nessa aplicação Front-end, um website que mostra um pouco a Travessia Petrópolis x Teresópolis, representado por diversas imagens e mencionando variadas informações de grande importância, possibilitando também marcar um agendamento de passeio na mesma.
 
+## Link do projeto:
+
+https://travessiatour.vercel.app/
 <img src="./assets/paginaPrincipal/TravessiaTour.png" alt= "Summit Lake - Charles Donlea" width="800" />
 
 ## Informações técnicas do projeto:
